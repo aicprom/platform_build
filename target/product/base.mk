@@ -82,6 +82,8 @@ PRODUCT_PACKAGES += \
     libril \
     librtp_jni \
     libsensorservice \
+    libsudautils \
+    libsuda-phoneloc-jni \
     libskia \
     libsonic \
     libsonivox \
