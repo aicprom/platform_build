@@ -34,6 +34,7 @@ PRODUCT_PACKAGES += \
     DownloadProviderUi \
     ExactCalculator \
     ExternalStorageProvider \
+    Eleven \
     FusedLocation \
     InputDevices \
     KeyChain \
