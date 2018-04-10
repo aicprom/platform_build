@@ -34,12 +34,10 @@ PRODUCT_PACKAGES += \
     DownloadProviderUi \
     ExactCalculator \
     ExternalStorageProvider \
-    Eleven \
     FusedLocation \
     InputDevices \
     KeyChain \
     Keyguard \
-    GooglePinYin \
     ManagedProvisioning \
     MtpDocumentsProvider \
     PicoTts \
